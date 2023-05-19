@@ -29,7 +29,6 @@ $this-> callbacks = new AdminCallbacks();
         $this->setSubPages();
 
         $this->settings->addPages($this->pages)->withSubPage('create Employee')-> addSubPages($this->subpages) ->register();
-        // $this->settings->addPages($this->pages)->withSubPage('Dashboard')-> addSubPages($this->subpages) ->reg();
     }
 
     public function setPages(){
