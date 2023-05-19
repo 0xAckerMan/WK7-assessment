@@ -1,0 +1,11 @@
+DB Name: assessment7
+DB user: admin
+DB pass: admin
+
+
+
+Site title: WK7 assessment 
+user: admin
+pass: admin
+email: admin@localhost.com
+
