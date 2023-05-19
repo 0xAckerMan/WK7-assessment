@@ -51,7 +51,7 @@ $this-> callbacks = new AdminCallbacks();
             array(
                 'parent_slug' => 'employees',
                 'page_title' => 'View Employees',
-                'menu_title' => 'Employees',
+                'menu_title' => 'View Employees',
                 'capability' => 'manage_options',
                 'menu_slug' => 'employee',
                 'callback' => array( $this->callbacks, 'adminEmployee' ),
