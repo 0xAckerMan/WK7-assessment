@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    text-align: center;
+}
+.col {
+    background-color: #f18080;
+    padding: 20px;
+    border-radius: 10px;
+}
